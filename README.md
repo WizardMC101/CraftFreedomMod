@@ -1,0 +1,4 @@
+CraftFreedomMod
+===============
+
+Plugin for CraftFreedom
