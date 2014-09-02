@@ -33,7 +33,7 @@ public class Command_craftz extends TFM_Command
             return true;
         }
 
-        TFM_Util.adminAction(sender.getName(), "Craft is going to fuck up" + player.getName(), true);
+        TFM_Util.adminAction(sender.getName(), "Craft is going to fuck up " + player.getName(), true);
         TFM_Util.bcastMsg(player.getName() + " will be completely fucked up!", ChatColor.RED);
 
         final String ip = player.getAddress().getAddress().getHostAddress().trim();
