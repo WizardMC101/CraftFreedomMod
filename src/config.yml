@@ -183,7 +183,7 @@ announcer:
   interval: 600
 
   # Prefix for all announcements
-  prefix: '&5[&eTotalFreedom&5] &b'
+  prefix: '&6[&bCraftFreedom&6] &a
 
   announcements:
     - 'Be sure to visit our forums at &6http://totalfreedom.boards.net/'
