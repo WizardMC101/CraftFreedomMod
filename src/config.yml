@@ -183,12 +183,12 @@ announcer:
   interval: 600
 
   # Prefix for all announcements
-  prefix: '&5[&eTotalFreedom&5] &b'
+  prefix: '&6[&bCraftFreedom&6]&a'
 
   announcements:
-    - 'Be sure to visit our forums at &6http://totalfreedom.boards.net/'
+    - 'Be sure to visit our forums at &6http://craftfreedom.boards.net/'
     - 'You can always review the server rules here: &6http://totalfreedom.me/'
-    - 'If you aren''t OP, be sure to ask!'
+    - 'DO NOT GRIFE AND RESPECT STAFF ALL THE TIME!'
 
 # Players who cannot be banned by username
 unbannable_usernames:
