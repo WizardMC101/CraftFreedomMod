@@ -81,7 +81,7 @@ blocked_commands:
   - 'n:b:/toggledownfall:_'
   - 'n:b:/effect:Please use /potion to set effects.'
   - 'n:b:/enderchest:_'
-
+  - 'n:b:/tellraw:_'
   # Superadmin commands
   - 's:b:/kick:_'
   - 's:b:/socialspy:_'
@@ -172,7 +172,7 @@ console_is_senior: true
 # Host Sender Names - Names that indicate automated services or host-based consoles you want to block from using some commands.
 # Make sure these are all lower-case.
 host_sender_names:
-  - rcon
+  - CONSOLE
   - remotebukkit
 
 # Announcer
@@ -183,12 +183,12 @@ announcer:
   interval: 600
 
   # Prefix for all announcements
-  prefix: '&5[&eTotalFreedom&5] &b'
+  prefix: '&5[&eCraftFreedom&5] &b'
 
   announcements:
-    - 'Be sure to visit our forums at &6http://totalfreedom.boards.net/'
+    - 'Be sure to visit our forums at &6http://craftfreedom.boards.net/'
     - 'You can always review the server rules here: &6http://totalfreedom.me/'
-    - 'If you aren''t OP, be sure to ask!'
+    - 'If you grife you will be banned'
 
 # Players who cannot be banned by username
 unbannable_usernames:
